@@ -1,6 +1,6 @@
-## Incomati Warehouse Pro Scanning App: Privacy policy
+## IncodynamixXPS: Privacy policy
 
-Welcome to the Incomati Warehouse Pro Scanning app for Android!
+Welcome to the IncodynamixXPS app for Android!
 
 This app was developed to automate the processing of orders with an Andriod scanning device. This will reduce/eliminate physical paperwork.
 
