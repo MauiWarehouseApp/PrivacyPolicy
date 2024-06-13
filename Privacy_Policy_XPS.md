@@ -4,7 +4,7 @@ Welcome to the IncodynamixXPS app for Android!
 
 This app was developed to automate the processing of orders with an Andriod scanning device. This will reduce/eliminate physical paperwork.
 
-I hereby state, to the best of my knowledge and belief, that we, Incomati Warehousing and Distribution, have not programmed this app to collect any personally identifiable information. All data (the url of the api, customer and warehouse location) created by you (the user) is stored on your device only, and can be simply erased by clearing the app's data or uninstalling it.
+I hereby state, to the best of my knowledge and belief, that we, Incomati Warehousing and Distribution, have not programmed this app to collect any personally identifiable information. All data (the url of the api, customer and warehouse location) created by you (the user) is stored on your device only, and can be simply erased by clearing the app's data or uninstalling it. The location permission of the device is requuired to show where the delivery was done and to print the GPS location on the customer invoice. The camera permission is required to use the device to upload signed documents to the cloud, where the customer can view the documents. The file and media access permission is required to upload a photo, of a document, that was taken on the device to the cloud.
 
 ### Explanation of permissions requested in the app
 
